@@ -1,0 +1,7 @@
+names:
+- car
+nc: 1
+path: /Users/jiwonchoi/comento/1/datasets
+test: /Users/jiwonchoi/comento/1/datasets/images/test
+train: /Users/jiwonchoi/comento/1/datasets/images/train
+val: /Users/jiwonchoi/comento/1/datasets/images/val
